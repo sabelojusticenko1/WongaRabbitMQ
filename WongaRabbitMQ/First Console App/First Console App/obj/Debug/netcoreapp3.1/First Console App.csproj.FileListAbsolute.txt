@@ -1,0 +1,18 @@
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.exe
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.deps.json
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.runtimeconfig.json
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.runtimeconfig.dev.json
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.dll
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.pdb
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.csproj.AssemblyReference.cache
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.AssemblyInfoInputs.cache
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.AssemblyInfo.cs
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.csproj.CoreCompileInputs.cache
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.csproj.CopyComplete
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.dll
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.pdb
+D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.genruntimeconfig.cache

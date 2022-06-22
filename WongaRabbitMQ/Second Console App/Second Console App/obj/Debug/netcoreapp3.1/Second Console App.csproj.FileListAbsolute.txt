@@ -1,0 +1,17 @@
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.exe
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.deps.json
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.runtimeconfig.json
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.runtimeconfig.dev.json
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.dll
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.pdb
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.csproj.AssemblyReference.cache
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.AssemblyInfoInputs.cache
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.AssemblyInfo.cs
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.csproj.CoreCompileInputs.cache
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.csproj.CopyComplete
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.dll
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.pdb
+D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.genruntimeconfig.cache
