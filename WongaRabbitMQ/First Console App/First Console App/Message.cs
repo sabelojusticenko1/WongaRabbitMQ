@@ -13,13 +13,23 @@ namespace First_Console_App
 
         public Message(){
             _rabbitConnection = new RabbitConnection();
-        }
-
-        public void publishMsg() {
             channel = _rabbitConnection.getChannel();
+            CreateQ();
+        }
+        public void CreateQ()
+        {
+            //declare a queue
+            channel.QueueDeclare("AppTwo-queue", //pass a queue name
+                durable: true, // we want the meesage to stays until the consumer recieve it
+                exclusive: false, //for auto exchange
+                autoDelete: false, //for auto exchange
+                arguments: null);  //for auto exchange
+
+        }
+        public void publishMsg() {
             //declare a queue
             channel.QueueDeclare("AppOne-queue", //pass a queue name
-                durable: true, // we want the meesage to stays until the consumer recieve it
+                durable: true, // We want the message to stays until the consumer recieve it
                 exclusive: false, //for auto exchange
                 autoDelete: false, //for auto exchange
                 arguments: null);  //for auto exchange
@@ -34,7 +44,6 @@ namespace First_Console_App
                 Console.WriteLine("Name can't be empty! Enter your name");
                 Name = Console.ReadLine();
             }
-            channel = _rabbitConnection.getChannel();
                 var body = Encoding.UTF8.GetBytes(Name);
                 channel.BasicPublish(exchange: "",
                                          routingKey: "AppOne-queue",
@@ -56,8 +65,20 @@ namespace First_Console_App
                 Console.WriteLine("Hello : " + RecievedName + " I am your father");
 
             };
-            channel.BasicConsume("AppTwo-queue", true, consumer);
-            Console.ReadLine();
+
+            try
+            {
+                channel.BasicConsume("AppTwo-queue", true, consumer);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Publisher to create AppTwo-queue");
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
         }
+
     }
 }

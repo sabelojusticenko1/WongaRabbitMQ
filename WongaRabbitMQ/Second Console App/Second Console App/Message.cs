@@ -13,11 +13,21 @@ namespace Second_Console_App
 
         public Message(){
             _rabbitConnection = new RabbitConnection();
+            channel = _rabbitConnection.getChannel();
+            CreateQ();
+        }
+        public void CreateQ() {
+            //declare a queue
+            channel.QueueDeclare("AppTwo-queue", //pass a queue name
+                durable: true, // we want the meesage to stays until the consumer recieve it
+                exclusive: false, //for auto exchange
+                autoDelete: false, //for auto exchange
+                arguments: null);  //for auto exchange
+
         }
 
         public void consumeMsg()
         {
-            channel = _rabbitConnection.getChannel();
             var Name = default(string);
             var consumer = new EventingBasicConsumer(channel); // create a consumer 
             consumer.Received += (sender, e) =>
@@ -27,23 +37,28 @@ namespace Second_Console_App
                         Console.WriteLine("Hello my name is : " + Name);
                         publishMsg(Name);
                     };
-            channel.BasicConsume("AppOne-queue", true, consumer);
-            Console.ReadLine();
+            try
+            {
+                channel.BasicConsume("AppOne-queue", true, consumer);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Publisher to create AppOne-queue");
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
+
         }
 
         public void publishMsg(string Name) {
-            channel = _rabbitConnection.getChannel();
             var body = Encoding.UTF8.GetBytes(Name);
             channel.BasicPublish(exchange: "",
                                      routingKey: "AppTwo-queue",
                                      basicProperties: null,
                                      body: body);
-            //declare a queue
-            channel.QueueDeclare("AppTwo-queue", //pass a queue name
-                durable: true, // we want the meesage to stays until the consumer recieve it
-                exclusive: false, //for auto exchange
-                autoDelete: false, //for auto exchange
-                arguments: null);  //for auto exchange
+            
         }
     }
 }

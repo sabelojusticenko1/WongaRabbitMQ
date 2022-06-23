@@ -15,3 +15,20 @@ D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\
 D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.dll
 D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.pdb
 D:\Users\MthembuSJ\source\repos\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.genruntimeconfig.cache
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.exe
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.deps.json
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.runtimeconfig.json
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.runtimeconfig.dev.json
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.dll
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\Second Console App.pdb
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.csproj.AssemblyReference.cache
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.AssemblyInfoInputs.cache
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.AssemblyInfo.cs
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.csproj.CoreCompileInputs.cache
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.csproj.CopyComplete
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.dll
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.pdb
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\Second Console App\Second Console App\obj\Debug\netcoreapp3.1\Second Console App.genruntimeconfig.cache

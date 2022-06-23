@@ -16,3 +16,21 @@ D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\ne
 D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.dll
 D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.pdb
 D:\Users\MthembuSJ\source\repos\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.genruntimeconfig.cache
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.exe
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.deps.json
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.runtimeconfig.json
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.runtimeconfig.dev.json
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.dll
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\bin\Debug\netcoreapp3.1\First Console App.pdb
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.csproj.AssemblyReference.cache
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.AssemblyInfoInputs.cache
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.AssemblyInfo.cs
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.csproj.CoreCompileInputs.cache
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.csproj.CopyComplete
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.dll
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.pdb
+D:\Users\mthembusj\Desktop\WongaRabbitMQ\WongaRabbitMQ\First Console App\First Console App\obj\Debug\netcoreapp3.1\First Console App.genruntimeconfig.cache

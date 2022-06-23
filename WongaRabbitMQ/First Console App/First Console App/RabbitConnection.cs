@@ -8,14 +8,23 @@ namespace First_Console_App
 {
     class RabbitConnection
     {
-        public IModel getChannel() {
-            var factory = new ConnectionFactory()
+        public IModel getChannel()
+        {
+            try
             {
-                Uri = new Uri("amqp://guest:sabelo@localhost:5672") // rabbitMQ Uri
-            };
-            var connection = factory.CreateConnection(); // create the connection return i connection object (default without any parameter)
-            var channel = connection.CreateModel(); // create the channel return i Model (channel created)
-            return channel;
+                var factory = new ConnectionFactory()
+                {
+                    Uri = new Uri("amqp://guest:guest@localhost:5672") // rabbitMQ Uri
+                };
+                var connection = factory.CreateConnection(); // create the connection 
+                var channel = connection.CreateModel(); // create the channel return i Model 
+                return channel;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.StackTrace);
+                throw;
+            }
         }
     }
 }
